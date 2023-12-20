@@ -20,7 +20,7 @@ authors:
     email: 
     web: 
     twitter: 
-    description: "Dog Mom"
+    description: "Meagan began volunteering with Louie's Legacy in 2020. Since then, she's fostered over a dozen dogs, and helped countless more find their furever homes."
   adam:
     name: Adam
     display_name: Adam    
@@ -28,7 +28,7 @@ authors:
     email: 
     web: 
     twitter: 
-    description: "Dog Dad"
+    description: "Adam is Grayson's dog dad."
 
 # Plugins
 plugins:
