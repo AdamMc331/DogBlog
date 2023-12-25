@@ -10,6 +10,7 @@ disqus: 'demowebsite'
 mailchimp-list: ''
 include: ["_pages"]
 permalink: /:title/
+remote_theme: mediumish-theme-jekyll
 
 # Authors
 authors:
