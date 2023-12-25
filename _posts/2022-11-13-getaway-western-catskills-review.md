@@ -5,7 +5,6 @@ author: meagan
 categories: [ travel, camping ]
 image: assets/images/getawaywest.jpeg
 rating: 4
-
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Metus aliquam eleifend mi in nulla posuere. Pharetra et ultrices neque ornare aenean. Facilisis leo vel fringilla est ullamcorper eget nulla facilisi. Arcu bibendum at varius vel pharetra vel. Nulla aliquet porttitor lacus luctus accumsan tortor. Tincidunt dui ut ornare lectus sit amet est. Enim sit amet venenatis urna cursus eget. Quam elementum pulvinar etiam non quam lacus suspendisse. Commodo nulla facilisi nullam vehicula ipsum a arcu cursus vitae. Tincidunt eget nullam non nisi est sit amet.
