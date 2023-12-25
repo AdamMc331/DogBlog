@@ -3,7 +3,7 @@ layout: post
 title:  "Review: Getaway House Western Catskills"
 author: meagan
 categories: [ travel, camping ]
-image: assets/images/getawaywest.jpeg
+image: assets/images/logo.png
 rating: 4
 ---
 

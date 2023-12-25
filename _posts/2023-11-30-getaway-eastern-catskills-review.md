@@ -3,7 +3,7 @@ layout: post
 title:  "Review: Getaway House Eastern Catskills"
 author: meagan
 categories: [ travel, camping ]
-image: assets/images/catskills.jpeg
+image: assets/images/logo.png
 featured: true
 hidden: true
 rating: 4
