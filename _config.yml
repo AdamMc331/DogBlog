@@ -18,7 +18,7 @@ authors:
     display_name: Meagan
     avatar: 'assets/images/meagan.jpeg'
     email: 
-    web: 
+    web: https://instagram.com/graysonthefosterfail
     twitter: 
     description: "Meagan began volunteering with Louie's Legacy in 2020. Since then, she's fostered over a dozen dogs, and helped countless more find their furever homes."
   adam:
@@ -26,9 +26,9 @@ authors:
     display_name: Adam    
     avatar: 'assets/images/adam.jpeg'
     email: 
-    web: 
+    web: https://instagram.com/graysonthefosterfail
     twitter: 
-    description: "Adam is Grayson's dog dad."
+    description: "Dog dad"
 
 # Plugins
 plugins:
